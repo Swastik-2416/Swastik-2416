@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swastik Mandal</h1>
 <h3 align="center">A curious frontend developer and swift developer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swastik-2416" alt="swastik-2416" /></a> </p>
-
 - 🔭 I’m currently working on **iOS app project**
 
 - 🌱 I’m currently learning **swift,node js**
