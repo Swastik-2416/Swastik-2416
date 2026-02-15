@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **swift,node js**
 
-- 👨‍💻 All of my projects are available at [Swastik-2416](Swastik-2416)
-
 - 📫 How to reach me **swastikmandal.2416@gmail.com**
 
 - ⚡ Fun fact **My profile might not be that interesting but I am**
