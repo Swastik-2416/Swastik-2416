@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swastik Mandal</h1>
-<h3 align="center">A curious frontend developer and swift developer.</h3>
+<h3 align="center">A lazy frontend and swift developer.</h3>
 
 - 🔭 I’m currently working on **iOS app project**
 
